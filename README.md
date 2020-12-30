@@ -15,8 +15,8 @@ The **MakingTidyData** Repository consists of:
 4. the result of our efforts: **NewTidySet.txt**
 
 **Run_Analysis.R** checks to see if the original data files are 
-residing in the local directory. If necessary the data files will be
-script will download the files from directory:
+residing in the local directory. If necessary the data files will 
+be downloaded from the directory:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
